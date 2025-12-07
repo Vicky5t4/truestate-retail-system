@@ -1,7 +1,6 @@
-@"
 node_modules/
 dist/
 .vite/
 .env
-backend/data/
-"@ > .gitignore
+
+backend/data/sales_data.csv
